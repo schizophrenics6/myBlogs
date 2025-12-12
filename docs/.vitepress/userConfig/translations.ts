@@ -9,4 +9,5 @@ export const fileName2Title: Record<string, string> = {
   React: "React",
   BuildTools:"打包工具",
   Interviews: "面经分享",
+    Frontend: "前端基础",
 };
